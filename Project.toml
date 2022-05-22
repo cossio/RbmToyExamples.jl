@@ -1,0 +1,12 @@
+name = "RbmToyExamples"
+uuid = "6b10ff17-b66a-4a9b-be9d-1ee893b652eb"
+authors = ["Jorge Fernandez-de-Cossio-Diaz <j.cossio.diaz@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+RestrictedBoltzmannMachines = "12e6b396-7db5-4506-8cb6-664a4fe1e50e"
+
+[compat]
+julia = "1.7"
+RestrictedBoltzmannMachines = "0.32"

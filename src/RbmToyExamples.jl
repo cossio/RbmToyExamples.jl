@@ -1,0 +1,4 @@
+module RbmToyExamples
+
+
+end # module
